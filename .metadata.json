@@ -2,9 +2,5 @@
   {
     "package": "AnnotationBustR",
     "oncran": true
-  },
-  {
-    "package": "dietr",
-    "oncran": true
   }
 ]
