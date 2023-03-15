@@ -1,10 +1,10 @@
 [
   {
-    "package": "AnnotationBustR",
+    "package": "dietr",
     "oncran": true
   },
   {
-    "package": "dietr",
+    "package": "AnnotationBustR",
     "oncran": true
   }
 ]
