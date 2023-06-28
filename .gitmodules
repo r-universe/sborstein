@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AnnotationBustR"]
 	path = AnnotationBustR
 	url = https://github.com/sborstein/annotationbustr
-	shallow = true
-	registered = true
 [submodule "dietr"]
 	path = dietr
 	url = https://github.com/sborstein/dietr
-	shallow = true
-	registered = true
